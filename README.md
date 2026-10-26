@@ -32,34 +32,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🏘️ Community Maintenance Platform
-Full-stack platform for residents to report, track, and manage maintenance requests.
-- Role-based access control for residents, maintenance staff, and admins
-- Redis caching + async background processing for performance
-- LLM-powered request classification, summarization, and automated assistance
-- **Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Redis, Docker, LLM APIs
-- 🔗 [View project](https://github.com/alanbabu518-spec/Community-Maintenance-Platform)
-
-#### 🎬 Movie Finder
-Responsive movie discovery app with search, filters, and detailed movie pages.
-- JWT auth with bcrypt, TMDB API integration
-- Reusable components, plus loading, error, and empty states
-- **Stack:** React, Node.js, Express, MongoDB, Mongoose, JWT, Swiper.js, TMDB API
-- 🔗 [View project](https://github.com/alanbabu518-spec/Movie-Finder)
-
----
-
-### 🔐 Experience
-
-**Remote Security Intern — TCS iON**
-- Security-tested OWASP Juice Shop using Kali Linux and Docker
-- Found SQL Injection, Broken Authentication, and Sensitive Data Exposure issues
-- Mapped findings to the OWASP Top 10 and documented mitigations
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
